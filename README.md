@@ -31,19 +31,24 @@ Step 6: Now type in /opt/AdGuardHome/AdGuardHome -p 3000 (This will switch the H
 Step 7: Open your browser and navigate to your http://IP_OF_YOUR_DEVICE_INSTALLED:3000 and it should now display you the AdGuard page instead - As you can see at this point your device has the port 80 free and we can now use it for the 'Users Guide'
 
 
-Step 8: Now once you are in the AdGuard Home Interface (Port 80 - At this point you are good to go) - Under 'Filters' go to 'Custom filtering rules' and paste in the following values [https://github.com/upal212/ps4-users-guide-adguard/blob/main/adguard-psn-block.txt] - What this does is that it blocks PSN and Updates in order to avoid future mistakes
+Step 8: Now once you are in the AdGuard Home Interface (Port 80 - At this point you are good to go) - Under 'Filters' go to 'Custom filtering rules' and paste in the following values
+<p><code> https://github.com/upal212/adguard-ps4-usersguide/blob/main/adguard-psn-block.txt</code></p>
+<p>What this does is that it blocks PSN and Updates in order to avoid mistakes in the future</p>
 
 
 Step 9: Now navigate to 'Filters' once again and click on 'Custom filtering rules'
 
 
-Step 10: Create DNS rewirtes exactly with the same values as the link [https://github.com/upal212/ps4-users-guide-adguard/blob/main/dns-rewrites.PNG] - Change the IP under 'Answer' with your Device's IP which will run the Web Server on port 80 (I have installed on the same machine in order to avoid in the inconvinience) Do note that: This will redirect to the Any IP address under your network or outside (LAN/WAN).
+Step 10: Create DNS rewirtes exactly with the same values as the link 
+<p align="center">
+<img alt="DNS Rewrites" src="https://raw.githubusercontent.com/upal212/adguard-ps4-usersguide/main/dns-rewrites.PNG"/></p>
+Change the IP under 'Answer' with your Device's IP which will run the Web Server on port 80 (I have installed on the same machine in order to avoid in the inconvinience) Do note that: This will redirect to the Any IP address under your network or outside (LAN/WAN).
 
 
 Step 11: Install Apache according to your distro/OS - I am using Ubuntu so I had followed 'sudo apt install apache2' (If it says cannot find the package run 'sudo apt-get update' on your system)
 
 
-**For Windows I would recommend installing XAMPP as it is easy to setup
+<b>**For Windows I would recommend installing XAMPP as it is easy to setup</b>
 
 
 Step 12: Once Apache has been setup and running - you can start it through 'systemctl' for Linux distributions and for 'Windows - XAMPP' can be run through 'apache_start.bat'
