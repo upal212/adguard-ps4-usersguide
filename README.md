@@ -1,4 +1,4 @@
-# Adguard PS4 Users Guide
+# AdGuard PS4 Users Guide
 
 'Users Guide' via the help of AdGuard Home
 
