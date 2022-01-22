@@ -52,7 +52,7 @@ Step 12: Once Apache has been setup and running - you can start it through 'syst
 Step 13: Navigate to http://IP_OF_YOUR_DEVICE_INSTALLED:80 - It should now display you the 'Apache/XAMPP' page instead.
 
 
-**Linux users only
+<b>**Linux users only</b>
 
 
 *Step 14: SSH back into your device which is running Apache and type in 'cd /var/www/html'
@@ -64,7 +64,7 @@ Step 13: Navigate to http://IP_OF_YOUR_DEVICE_INSTALLED:80 - It should now displ
 *Step 16: Paste your host file in here with the index.html (Cache is always preferred)
 
 
-**Windows users only
+<b>**Windows users only</b>
 
 
 *Step 14: RDP back into your device running the XAMPP
