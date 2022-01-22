@@ -1,6 +1,6 @@
 # AdGuard PS4 Users Guide
 
-'Users Guide' via the help of AdGuard Home
+'Users Guide' via the help of <b>AdGuard Home</b>
 
 ### How to use?
 
