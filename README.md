@@ -93,7 +93,7 @@ Step 19: Open 'Settings>User's Guide' - It should now load up the Apache page wi
 Step 20: Have fun!
 
 
-***Documentation: https://github.com/AdguardTeam/AdGuardHome/wiki/Getting-Started
+<i>***Documentation:</i> https://github.com/AdguardTeam/AdGuardHome/wiki/Getting-Started
 
 ----------
 
