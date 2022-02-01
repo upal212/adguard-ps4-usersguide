@@ -32,7 +32,7 @@ Step 7: Open your browser and navigate to your http://IP_OF_YOUR_DEVICE_INSTALLE
 
 
 Step 8: Now once you are in the AdGuard Home Interface (Port 80 - At this point you are good to go) - Under 'Filters' go to 'Custom filtering rules' and paste in the following values
-<p><code> https://github.com/upal212/adguard-ps4-usersguide/blob/main/adguard-psn-block.txt</code></p>
+<p><code>https://raw.githubusercontent.com/upal212/adguard-ps4-usersguide/main/adguard-psn-block.txt</code></p>
 <p>What this does is that it blocks PSN and Updates in order to avoid mistakes in the future</p>
 
 
