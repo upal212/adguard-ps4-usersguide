@@ -37,6 +37,7 @@
 0.0.0.0 ps4-eb.ww.np.dl.playstation.net
 0.0.0.0 ps4updptl.eu.np.community.playstation.net
 0.0.0.0 ps4updptl.uk.np.community.playstation.net
+0.0.0.0 ps4updptl.au.np.community.playstation.net
 0.0.0.0 ps4updptl.jp.sp-int.community.playstation.net
 0.0.0.0 ps4.updptl.sp-int.community.playstation.net
 0.0.0.0 ps4updptl.uk.np.community.playstation.net
