@@ -32,6 +32,7 @@
 0.0.0.0 htw01.ps4.update.playstation.net
 0.0.0.0 huk01.ps4.update.playstation.net
 0.0.0.0 hus01.ps4.update.playstation.net
+0.0.0.0 fuk01.ps4.update.playstation.net
 0.0.0.0 playstation.sony.akadns.net
 0.0.0.0 post.net.playstation.net
 0.0.0.0 ps4-eb.ww.np.dl.playstation.net
