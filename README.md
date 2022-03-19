@@ -7,7 +7,7 @@
 Step 1: Install AdGuard Home through their official repo (https://github.com/AdguardTeam/AdGuardHome)
 
 
-Step 2: Go to releases (https://github.com/AdguardTeam/AdGuardHome/releases/tag/v0.107.2) and select the OS of your choice
+Step 2: Go to releases (https://github.com/AdguardTeam/AdGuardHome/releases/tag/v0.107.5) and select the OS of your choice
 
 
 **Step 2 (Easy Install for Linux): SSH into your device and run - curl -sSL https://raw.githubusercontent.com/AdguardTeam/AdGuardHome/master/scripts/install.sh | sh
